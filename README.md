@@ -7,3 +7,7 @@ A Medium-like blogging platform built with Django REST Framework.
 - Django REST Framework
 - PostgreSQL (planned)
 
+## Features Implemented
+- User registration
+- JWT authentication (login/refresh)
+- Protected endpoints
