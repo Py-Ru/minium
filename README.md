@@ -11,3 +11,4 @@ A Medium-like blogging platform built with Django REST Framework.
 - User registration
 - JWT authentication (login/refresh)
 - Protected endpoints
+
